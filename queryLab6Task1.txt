@@ -1,0 +1,10 @@
+106 ?- can_buy(900000, red).
+if you want a red car , you can purchase the carchrysler
+true .
+
+107 ?- can_buy(900000, green).
+false.
+
+108 ?- can_buy(900000,blue).
+if you want a blue truck , you can purchase the truckford
+true.
